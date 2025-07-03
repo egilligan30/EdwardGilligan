@@ -1,6 +1,6 @@
 # EdwardGilligan
 
-Welcome to my personal project repository! This space showcases academic research and applied programming projects related to economics, mathematics, and data analysis.
+Below are my personal projects. This space showcases academic research and applied programming projects related to economics, mathematics, and data analysis.
 
 ## Features
 
