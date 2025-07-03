@@ -27,11 +27,10 @@ A Python program using `sympy` that:
 - Performs row-reduction to RREF  
 - Calculates matrix inverses with step-by-step verification  
 
-## 📫 Contact
+## Contact Me
 
 I'd love to connect, collaborate, or discuss my work. Feel free to reach out:
 
-- **GitHub:** [egilligan30](https://github.com/egilligan30)  
 - **Email:** [edwardgilligan6@gmail.com](mailto:edwardgilligan6@gmail.com)  
 - **LinkedIn:** (https://www.linkedin.com/in/edward-gilligan-711854256/) 
 
