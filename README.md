@@ -1,4 +1,4 @@
-# EdwardGilligan
+# Edward Gilligan
 
 Below are my personal projects. This space showcases academic research and applied programming projects related to economics, mathematics, and data analysis.
 
